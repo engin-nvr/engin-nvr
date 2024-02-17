@@ -20,7 +20,7 @@
 <br/> <br/> <br/> <br/> 
 
 ## 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/Haliboss) <br/> <br/>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-demircin-497a14214//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/engin-nvr) <br/> <br/>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/engin-unver-41131a2aa/)  
 <!--[![linkedin](https://img.shields.io/badge/Linkedin%20pages-121013?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver-41131a2aa/)
 -->
 <br/> <br/>
