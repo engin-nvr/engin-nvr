@@ -1,5 +1,4 @@
 
-![](https://visitcount.itsvg.in/api?id=engin-nvr&icon=1&color=2)](https://visitcount.itsvg.in)
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=engin-nvr&leftColor=ff1a1a&rightColor=0adb3f&type=unique&label=View-profile&style=lower)
 
