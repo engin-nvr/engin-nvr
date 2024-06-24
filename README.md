@@ -22,7 +22,7 @@
      <h2 align="center">📬 Connect With Me</h2>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
-
+[![Gmail: VPA](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](unverengin17@gmail.com)
 </div>
 
 <h2 align="center">🚀My Technical Skills</h2>
