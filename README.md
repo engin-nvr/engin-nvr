@@ -36,10 +36,6 @@
 <br/> <br/>
 -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-<br/> <br/>
-
 # 📊 GitHub Stats:
 <!-- bunu kullanmak istemedim![](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
@@ -56,10 +52,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=engin-nvr&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <br/> <br/>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br/> <br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
