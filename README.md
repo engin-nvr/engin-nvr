@@ -22,8 +22,10 @@
      <h2 align="center">📬 Connect With Me</h2>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
-you can connect with me **unverengin17@gmail.com**
+- you can connect with me **unverengin17@gmail.com**
 </div>
+
+<hr/>
 
 <h2 align="center">🚀My Technical Skills</h2>
 <div align="center">
@@ -49,8 +51,7 @@ you can connect with me **unverengin17@gmail.com**
 </div>
 
 <hr/>
-><!--<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> -->
-<br/> <br/>
+<!--<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> -->
 <!--
 # My Future Skills
 ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,14 +69,16 @@ you can connect with me **unverengin17@gmail.com**
 <!-- bu sekilde de olabilir <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green" />-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=engin-nvr&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engin-nvr&theme=2077"/>
-<br/><br/> <br/>
+
+<hr/>
 
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=engin-nvr&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-<br/> <br/>
+
+<hr/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-<br/> <br/>
+<hr/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
