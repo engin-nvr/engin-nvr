@@ -22,7 +22,7 @@
      <h2 align="center">📬 Connect With Me</h2>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
-- you can connect with me **unverengin17@gmail.com**
+- my e-mail **unverengin17@gmail.com**
 </div>
 
 <hr/>
