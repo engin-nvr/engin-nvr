@@ -13,7 +13,7 @@
 <hr/>
 
 <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I'm+currently+studying+devops;" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I'm+currently+studying+K8S;" alt="Typing SVG" /></a>
 </div>
 
 <hr/>
@@ -30,6 +30,7 @@
 <h2 align="center">🚀My Technical Skills</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/linux-E44C30?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
