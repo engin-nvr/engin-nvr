@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif" align="center" width="600">
+<img src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif" align="center" width="600">
 </div>
 
 <hr/>
