@@ -29,7 +29,6 @@
 
 <h2 align="center">🚀My Technical Skills</h2>
 <div align="center">
-<p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </a>
@@ -87,7 +86,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a> 
-</p>
+
      
      
 
