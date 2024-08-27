@@ -30,44 +30,55 @@
 <h2 align="center">🚀My Technical Skills</h2>
 <div align="center">
      
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a> 
-<a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
-<a href="https://www.rancher.com" target="_blank" rel="noreferrer"> 
-     <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" alt="Helm"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
 </a> 
-
-
-<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/> 
+</a> 
+<a href="https://www.rancher.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana"/>
+</a> 
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus"/>
+</a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/linux-E44C30?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> 
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
 </a> 
-
-
-
-<a href="https://maven.apache.org" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+</a> 
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a> 
+<a href="https://gitlab.com/zehkira/monophony" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/> 
+</a> 
+
+
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </a>
@@ -78,9 +89,8 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -114,7 +124,7 @@
 
 
      
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+[<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/>
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
@@ -129,7 +139,6 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
@@ -142,7 +151,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VB"/>
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/>
-<img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>  
+<img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>](url)  
 </div>
 
 <hr/>
