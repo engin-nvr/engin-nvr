@@ -25,6 +25,10 @@
 [![Linkedin: VPA](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](unverengin17@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unverengin17@gmail.com)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unverengin17@gmail.com)
+
+**Email:** [unverengin17@gmail.com](mailto:unverengin17@gmail.com)
+
 my e-mail **unverengin17@gmail.com**
 </div>
 
