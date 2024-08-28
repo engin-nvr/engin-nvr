@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 
-<div align="center">
-<img src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif" align="center" width="600">
+<div align="left">
+<img src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif" align="center" width="500">
 </div>
 
 <hr/>
@@ -18,7 +18,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="right">
      <h2 align="center">📬 Connect With Me</h2>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
