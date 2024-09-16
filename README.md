@@ -137,7 +137,7 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
-        <td><td><span class="highlighted-text">My Phonebook with Kubernetes</span></td></td>
+        <td><td><span class="highlighted-text">My Phonebook with Kubernetes</span></td>
         <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
         <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
       </tr>
@@ -148,8 +148,8 @@
       </tr>
      <tr>
         <td><span style="font-weight: bold; text-decoration: underline;">My Phonebook Application in AWS Architecture</span>/td>
-        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC</td>
-        <td><a href="https://github.com/engn-nvr/movie-app2">Repo Link</a></td>
+        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC - CloudFormation</td>
+        <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
       </tr>
 </table>
 <hr>
