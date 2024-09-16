@@ -137,17 +137,17 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
-        <td><a href="Kubernetes">K8S</a></td>
+        <td><a href="Kubernetes">My Phonebook with Kubernetes</a></td>
         <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
         <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href=Jenkins">Product Pool</a></td>
-        <td>React - Material-UI - Tailwind - React-Redux - Redux-Toolkit - Redux-Persist - axios - React-toastify - Formik - Yup</td>
+        <td><a href=Jenkins">My Jenkins Pipeline</a></td>
+        <td>Jenkins - Ansible - Docker - Terraform - EC2 - PostgreSQL - ECR - React - NodeJs</td>
         <td><a href="https://github.com/engin-nvr/my-jenkins-pipeline">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href="aws-phonebook">Movie App</a></td>
+        <td><a href="My Phonebook Application in AWS Architecture">Movie App</a></td>
         <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC</td>
         <td><a href="https://github.com/engn-nvr/movie-app2">Repo Link</a></td>
       </tr>
