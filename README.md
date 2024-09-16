@@ -137,24 +137,19 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
-        <td><a href="Kubernetes">My Phonebook with Kubernetes</a></td>
+        <td><td><span class="highlighted-text">My Phonebook with Kubernetes</span></td></td>
         <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
         <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href=Jenkins">My Jenkins Pipeline</a></td>
+        <td><span class="highlighted-text">My Jenkins Pipeline</span></td>
         <td>Jenkins - Ansible - Docker - Terraform - EC2 - PostgreSQL - ECR - React - NodeJs</td>
         <td><a href="https://github.com/engin-nvr/my-jenkins-pipeline">Repo Link</a></td>
       </tr>
      <tr>
-        <td><a href="My Phonebook Application in AWS Architecture">Movie App</a></td>
+        <td><span style="font-weight: bold; text-decoration: underline;">My Phonebook Application in AWS Architecture</span>/td>
         <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC</td>
         <td><a href="https://github.com/engn-nvr/movie-app2">Repo Link</a></td>
-      </tr>
-     <tr style="margin: auto;">
-        <td><span style="font-weight: bold; text-decoration: underline;">Checkout Page</span></td>
-        <td>React - Bootstrap - axios - localstorage</td>
-        <td><a href="https://github.com/engin-nvr/">Repo Link</a></td>
       </tr>
 </table>
 <hr>
