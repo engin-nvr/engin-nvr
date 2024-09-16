@@ -139,7 +139,7 @@
      <tr>
         <td><span class="highlighted-text">My Phonebook with Kubernetes</span></td>
         <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
-        <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
+        <td><a href="https://github.com/engn-nvr/my-phonebook-with-kubernetes">Repo Link</a></td>
       </tr>
      <tr>
         <td><span class="highlighted-text">My Jenkins Pipeline</span></td>
@@ -148,8 +148,8 @@
       </tr>
      <tr>
         <td><span style="font-weight: bold; text-decoration: underline;">My Phonebook Application in AWS Architecture</span></td>
-        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC - CloudFormation</td>
-        <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
+        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC - CloudFormation - Parameter Store</td>
+        <td><a href="https://github.com/engn-nvr/my-phonebook-application-in-AWS-architecture">Repo Link</a></td>
       </tr>
 </table>
 <hr>
