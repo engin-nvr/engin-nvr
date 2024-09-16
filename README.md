@@ -128,7 +128,39 @@
 <br/> <br/>
 -->
 
-# 📊 GitHub Stats:
+<h2 align="center">My Projects</h2>
+
+<table border="1"  align="center"> 
+    <td  align="center"><strong>Project Name</strong></td>
+      <td  align="center">
+        <strong>Tools snd Services I Used To Make It</strong>
+      </td>
+      <td  align="center""><strong>Github Repository Link</strong></td>
+     <tr>
+        <td><a href="Kubernetes">K8S</a></td>
+        <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
+        <td><a href="https://github.com/engn-nvr/">Repo Link</a></td>
+      </tr>
+     <tr>
+        <td><a href=Jenkins">Product Pool</a></td>
+        <td>React - Material-UI - Tailwind - React-Redux - Redux-Toolkit - Redux-Persist - axios - React-toastify - Formik - Yup</td>
+        <td><a href="https://github.com/engin-nvr/my-jenkins-pipeline">Repo Link</a></td>
+      </tr>
+     <tr>
+        <td><a href="aws-phonebook">Movie App</a></td>
+        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC</td>
+        <td><a href="https://github.com/engn-nvr/movie-app2">Repo Link</a></td>
+      </tr>
+     <tr style="margin: auto;">
+        <td><span style="color: red;">Bu metin kırmızı renkte</span></td>
+        <td>React - Bootstrap - axios - localstorage</td>
+        <td><a href="https://github.com/engin-nvr/">Repo Link</a></td>
+      </tr>
+</table>
+<hr>
+
+
+<h2  align="center">📊GitHub Status</h2>
 <!-- bunu kullanmak istemedim![](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
 <br/>
