@@ -152,7 +152,7 @@
         <td><a href="https://github.com/engn-nvr/movie-app2">Repo Link</a></td>
       </tr>
      <tr style="margin: auto;">
-        <td><span style="color: red;">Bu metin kırmızı renkte</span></td>
+        <td><span style="font-weight: bold; text-decoration: underline;">Checkout Page</span></td>
         <td>React - Bootstrap - axios - localstorage</td>
         <td><a href="https://github.com/engin-nvr/">Repo Link</a></td>
       </tr>
@@ -161,6 +161,7 @@
 
 
 <h2  align="center">📊GitHub Status</h2>
+
 <!-- bunu kullanmak istemedim![](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
 <br/>
