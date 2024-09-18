@@ -60,7 +60,7 @@
      <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
 </a>
 <a href="https://www.sonatype.com/products/sonatype-nexus-repository/" target="_blank" rel="noreferrer"> 
-     <img src="https://img.shields.io/badge/Sonatype-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Nexus"/>
+     <img src="https://img.shields.io/badge/Sonatype-000000?style=for-the-badge&logo=nexus&labelColor=000000" alt="Nexus"/>
 </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana"/>
