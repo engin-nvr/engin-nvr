@@ -133,7 +133,7 @@
 <table border="1"  align="center"> 
     <td  align="center"><strong>Project Name</strong></td>
       <td  align="center">
-        <strong>Tools snd Services I Used To Make It</strong>
+        <strong>Tools and Services I Used To Make The Project</strong>
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
