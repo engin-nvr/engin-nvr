@@ -29,7 +29,7 @@
 
 <hr/>
 
-<h2 align="center">🚀My Technical Skills</h2>
+<h2 align="center">My Technical Skills</h2>
 <div align="center">
      
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -58,6 +58,9 @@
 </a> 
 <a href="https://www.rancher.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
+</a>
+<a href="https://www.sonatype.com/products/sonatype-nexus-repository/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/nexus/s/https/oss.sonatype.org/org.scalaz/scalaz-zio_2.12.svg" alt="Nexus"/>
 </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana"/>
