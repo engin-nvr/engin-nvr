@@ -33,7 +33,7 @@
 <div align="center">
      
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=orange" alt="AWS"/>
+     <img src="https://img.shields.io/badge/Amazon_AWS-FFA500?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS"/>
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
