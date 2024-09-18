@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </a> 
 <a href="https://gitlab.com/zehkira/monophony" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/> 
+    <img src="https://img.shields.io/badge/GitLab-FF8C00?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/> 
 </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
