@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 
 <div align="center">
-  <img src="https://www.anblicks.com/wp-content/uploads/2021/08/DevSecOps.gif" style="width: 70%; display: block;">
+  <img src="https://www.anblicks.com/wp-content/uploads/2021/08/DevSecOps.gif" style="width: 70%">
   <img src="https://akumeninc.com/wp-content/uploads/DevSecOps-Animation.gif" align="center" style="width: 70%">
 </div>
 
