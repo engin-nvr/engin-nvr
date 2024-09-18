@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif" style="width: 70%; display: block;">
-  <img src="https://www.globalsign.com/application/files/4416/8934/0095/DevSecOps-721x474-063023.gif" align="center" style="width: 70%">
+  <img src="https://akumeninc.com/wp-content/uploads/DevSecOps-Animation.gif" align="center" style="width: 70%">
 </div>
 
 <hr/>
