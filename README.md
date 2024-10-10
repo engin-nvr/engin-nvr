@@ -193,8 +193,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
 <br/>
 <!--aynı islem<img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&locale=en&theme=gruvbox"/> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engin-nvr&theme=chartreuse_dark"/>
+
 <!-- bu sekilde de olabilir <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green" />-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=engin-nvr&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engin-nvr&theme=2077"/>
 
 <hr/>
