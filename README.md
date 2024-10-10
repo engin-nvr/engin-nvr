@@ -140,6 +140,11 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
      <tr>
+        <td><span class="highlighted-text">SpringBoot Microservices CI/CD: Jenkins-Powered Kubernetes Automation</span></td>
+        <td>Kubernetes - Docker - Terraform - Jenkins - HELM - Rancher - Prometheus - Grafana - AWS - Bash Script</td>
+        <td><a href="https://github.com/engin-nvr/petclinic-microservices-with-db">Repo Link</a></td>
+      </tr>
+     <tr>
         <td><span class="highlighted-text">My Phonebook with Kubernetes</span></td>
         <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
         <td><a href="https://github.com/engin-nvr/my-phonebook-with-kubernetes">Repo Link</a></td>
