@@ -168,6 +168,7 @@
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <br>
+<div align="center">
 <p align="center" width="100%">
 <a href="https://github.com/engin-nvr">
   
@@ -180,24 +181,18 @@
 </p>
 
 
-<br/>
-<br>
-<div align="center">
-  <p>&nbsp;</p>
-</div>
-<br/>
-
 
 [](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 <br/>
 <!--aynı islem<img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&locale=en&theme=gruvbox"/> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engin-nvr&theme=chartreuse_dark"/>
 
 <!-- bu sekilde de olabilir <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green" />-->
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engin-nvr&theme=2077"/>
+</div>
 
 <hr/>
 
