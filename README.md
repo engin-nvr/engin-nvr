@@ -170,19 +170,14 @@
 <br>
 <p align="center" width="100%">
 <a href="https://github.com/engin-nvr">
-  <img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=midnight-purple" alt="engin-nvr" />
-</a>
-</p>
-<br>
-# My GitHub Stats
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=midnight-purple)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=midnight-purple)
+</a>
+</p>
 
 
 <br/>
