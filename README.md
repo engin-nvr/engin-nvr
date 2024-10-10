@@ -19,7 +19,7 @@
 <hr/>
 
 <div align="center">
-     <h2 align="center">📬 Connect With M<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">e</h2>
+     <h2 align="center">📬 Connect With Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
 <!--
@@ -169,9 +169,9 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <br>
 <p align="center" width="100%">
-<a href="https://github.com/d4rkn3m3s1s">
+<a href="https://github.com/engin-nvr">
   <img  src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=midnight-purple"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="engin-nvr" /
 </a>
 </p>
