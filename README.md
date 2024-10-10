@@ -177,8 +177,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=moltack)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 [](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 <!--aynı islem<img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&locale=en&theme=gruvbox"/> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark"/>
@@ -199,5 +197,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 <hr/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
