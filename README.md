@@ -191,7 +191,7 @@
 
 <!-- bu sekilde de olabilir <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green" />-->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engin-nvr&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engin-nvr&theme=2070"/>
 </div>
 
 <hr/>
