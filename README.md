@@ -163,7 +163,9 @@
 <hr>
 
 
-<h2  align="center">📊GitHub Status</h2>
+
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<br>
 
 <!-- bunu kullanmak istemedim![](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
