@@ -169,11 +169,9 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <br>
 <div align="center">
-<p align="center" width="100%">
-<a href="https://github.com/engin-nvr">
+
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&theme=gruvbox_dark&include_all_commits=true&count_private=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=merco&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=moltack&show_icons=true)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=midnight-purple)
 
