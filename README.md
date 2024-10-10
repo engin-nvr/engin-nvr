@@ -19,11 +19,13 @@
 <hr/>
 
 <div align="center">
-     <h2 align="center">📬 Connect With Me</h2>
+     <h2 align="center">📬 Connect With Me</h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin: VPA](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:unverengin17@gmail.com)**unverengin17@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
+<!--
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
+-->
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:unverengin17@gmail.com)**unverengin17@gmail.com**
 
 </div>
 
@@ -166,6 +168,26 @@
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <br>
+<p align="center" width="100%">
+<a href="https://github.com/d4rkn3m3s1s">
+  <img  src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="d4rkn3m3s1s" /
+</a>
+</p>
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ <br/>
+
+  <br>
+  <br>
+  </a>
+  <div align="center" >
+<p>&nbsp;</p>
+
+<br/>
 
 <!-- bunu kullanmak istemedim![](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engin-nvr&theme=blue_green) ![](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=darcula&hide_border=false)<br/>
