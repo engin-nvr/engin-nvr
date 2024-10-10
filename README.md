@@ -173,12 +173,13 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=moltack&show_icons=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=moltack)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=moltack)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
 <!--aynı islem<img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&locale=en&theme=gruvbox"/> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engin-nvr&theme=chartreuse_dark"/>
