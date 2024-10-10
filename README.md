@@ -173,16 +173,11 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=moltack&show_icons=true)
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=midnight-purple)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engin-nvr&layout=compact&langs_count=8&theme=moltack)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=midnight-purple)
-</a>
-</p>
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engin-nvr&theme=moltack)
 
 [](https://github-readme-stats.vercel.app/api?username=engin-nvr&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
 <br/>
 <!--aynı islem<img src="https://github-readme-stats.vercel.app/api?username=engin-nvr&show_icons=true&locale=en&theme=gruvbox"/> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engin-nvr&theme=chartreuse_dark"/>
