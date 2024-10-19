@@ -157,7 +157,7 @@
         <td><a href="https://github.com/engin-nvr/my-jenkins-pipeline">Repo Link</a></td>
       </tr>
      <tr>
-        <td><span style="font-weight: bold; text-decoration: underline;">My Phonebook Application in AWS Architecture</span></td>
+        <td><span style="font-weight: bold; text-decoration: underline;">My Blog Page Application in AWS Architecture</span></td>
         <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC - CloudFormation - Parameter Store</td>
         <td><a href="https://github.com/engin-nvr/my-phonebook-application-in-AWS-architecture">Repo Link</a></td>
       </tr>
