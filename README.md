@@ -13,15 +13,10 @@
 <hr/>
 
 <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I+have++AWS+CCP+and+CKA;" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I+have+CKA+and+AWS+CCP;" alt="Typing SVG" /></a>
 </div>
 <hr/>
 
-<div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I'm+currently+prepare+AWS+SAA+exam;" alt="Typing SVG" /></a>
-</div>
-
-<hr/>
 
 <div align="center">
      <h2 align="center">📬 Connect With Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
