@@ -43,9 +43,19 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/eng,n-nvr1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engin-nvr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/engin-nvr/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
 <hr/>
 
-<h2 align="center">My Technical Skills</h2>
+<details open> 
+<summary><h2 align="center">My Technical Skills</h2></summary>
 <div align="center">
      
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -54,7 +64,6 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a> 
-</a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift/" target="_blank" rel="noreferrer"> 
      <img src="xxx" alt="Openshift"/>
 </a>
@@ -144,6 +153,8 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>  
 
 </div>
+  <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 <hr/>
 <!--<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> -->
