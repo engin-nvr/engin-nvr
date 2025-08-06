@@ -7,16 +7,19 @@
 </div>
 -->
 
-<div align=center>
-💫 <b>About Me</b> <br/>
-Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
-<br/><br/>
-Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
-<br/><br/>
-Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
-<hr/>
+<div align="center" style="color: #00FF00; font-family: Arial, sans-serif; font-size: 16px;">
+  <div style="font-size: 28px; font-weight: bold; margin-bottom: 10px;">
+    💫 About Me
+  </div>
+  Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
+  <br/><br/>
+  Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
+  <br/><br/>
+  Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
+  <hr style="border-color: #00FF00; width: 50%;"/>
 </div>
-<div align=center>
+
+
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=%2300FF00&center=true&vCenter=true&width=500&lines=Hi+I'm+Engin;Welcome+to+my+profile!;I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
 </div>
 <hr/>
