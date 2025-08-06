@@ -6,10 +6,24 @@
   <img src="https://akumeninc.com/wp-content/uploads/DevSecOps-Animation.gif" align="center" style="width: 70%">
 </div>
 -->
+<!--
 
+<!--
 <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Engin;Welcome+to+my+profile!;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Engin;Welcome+to+my+profile!;" alt="Typing SVG" /></a>
 </div>
+-->
+
+# 💫 About Me:
+Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
+<hr/>
+Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
+<hr/>
+Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/engin-unver/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/engin_nvr) 
+
 
 <hr/>
 
