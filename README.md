@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
-
+<!--
 <div align="center">
   <img src="https://akumeninc.com/wp-content/uploads/DevSecOps-Animation.gif" align="center" style="width: 70%">
 </div>
-
+-->
 <hr/>
 
 <div align=center>
@@ -40,11 +40,18 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a> 
+</a>
+<a href="https://https://www.redhat.com/en/technologies/cloud-computing/openshift/" target="_blank" rel="noreferrer"> 
+     <img src="xxx" alt="Openshift"/>
+</a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a> 
+<a href="https://www.argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ArgoCD"/>
 </a>
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" alt="Helm"/>
