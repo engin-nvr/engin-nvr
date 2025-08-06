@@ -1,5 +1,5 @@
 <p align="left">
-![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
+![a](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
   <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge"/></a>
