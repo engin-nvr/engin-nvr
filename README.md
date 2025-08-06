@@ -1,16 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 <hr/>
 
-<!--
-<div align="center">
-  <img src="https://akumeninc.com/wp-content/uploads/DevSecOps-Animation.gif" align="center" style="width: 70%">
-</div>
--->
-
-<p align="center">
-  <a href="https://github.com/engin-nvr">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Engin Unver" /></a>
-</p>
 
 <div align=center>
 <h2>💫 <b>About Me</b></h2>
@@ -55,6 +45,9 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <hr/>
 
 <details open> 
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  
 <summary><h2 align="center">My Technical Skills</h2></summary>
 <div align="center">
      
@@ -164,9 +157,11 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 <br/> <br/>
 -->
-
-<h2 align="center">My Projects</h2>
-
+<details open>
+<summary><h2 align="center">My Projects</h2></summary>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- Small repo cards https://github.com/engin-nvr/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <table border="1"  align="center"> 
     <td  align="center"><strong>Project Name</strong></td>
       <td  align="center">
