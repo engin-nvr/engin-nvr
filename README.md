@@ -1,6 +1,8 @@
 <p align="left">
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=%237e57c2&right_color=%239575cd&left_text=Views&style=for-the-badge)
+
+<a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+  <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge"/></a>
 
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
   <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=9575cd&left_text=Views&style=for-the-badge"/></a>
