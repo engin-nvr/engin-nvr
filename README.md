@@ -54,6 +54,15 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engi
   />
 </a>
 
+<a href="https://github.com/engin-nvr?tab=followers" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="Ziyaretçi Sayacı"
+    title="Profil Ziyaretçi Sayısı"
+    src="https://img.shields.io/badge/dynamic/json?color=8a2be2&label=Ziyaret&query=value&url=https://api.countapi.xyz/hit/engin-nvr/visits&style=for-the-badge"
+  />
+</a>
+
+
 </p>
 
 <hr/>
