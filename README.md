@@ -16,14 +16,14 @@
 
 # 💫 About Me:
 Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
-<hr/>
+<br/><br/>
 Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
-<br/>
+<br/><br/>
 Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
 <hr/>
 
 <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi+I'm+Engin;Welcome+to+my+profile!+I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi+I'm+Engin;Welcome+to+my+profile!;I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
 </div>
 <hr/>
 
