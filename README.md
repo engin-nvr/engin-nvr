@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 
-
 <div align=center>
 <h2>💫 <b>About Me</b></h2>
 Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
@@ -16,7 +15,6 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 </div>
 <hr/>
 
-
 <div align="center">
      <h2 align="center">📬 Connect With Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <p align="center">
@@ -25,24 +23,37 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x/.com/engin_nvr"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/engin_nvr) 
 -->
-</p>
+
 
 <!--
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
 -->
 </div>
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engin-nvr
 
 <p align="center">
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
   <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=for-the-badge" /></a>
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/eng,n-nvr1?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engin-nvr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engin-nvr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engin-nvr&count_bg=%237e57c2&title_bg=%239575cd&icon=github.svg&title=Views&edge_flat=true"
+    alt="Profile Views"
+    title="Profile Views"
+    width="220"
+    height="40"
+  />
+</a>
+
 </p>
 
 <hr/>
