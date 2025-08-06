@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
-<hr/>
-
+<br/>
 
 <div align=center>
 <h2>💫 <b>About Me</b></h2>
@@ -164,7 +163,7 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <!-- Small repo cards https://github.com/engin-nvr/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 
  <p align="left">
-    <a href="https://github.com/engin-nvr/petclinic-microservices-with-db"><img width="278" src="https://engin-nvr-github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/engin-nvr/petclinic-microservices-with-db"><img width="278" src="https://engin-nvr-github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=petclinic-microservices-with-db&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petclinic-microservices-with-db"></a>
 
 
 <table border="1"  align="center"> 
