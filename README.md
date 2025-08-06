@@ -19,11 +19,17 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 
 <div align="center">
      <h2 align="center">📬 Connect With Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p align="center">
 
+  <a href="https://www.linkedin.com/in/engin-unver/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x/.com/engin_nvr"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/engin_nvr) 
-
-
+-->
+</p>
 
 <!--
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
@@ -163,8 +169,9 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <!-- Small repo cards https://github.com/engin-nvr/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 
  <p align="left">
-    <a href="https://github.com/engin-nvr/petclinic-microservices-with-db"><img width="278" src="https://engin-nvr-github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=petclinic-microservices-with-db&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petclinic-microservices-with-db"></a>
-
+     <a href="https://github.com/engin-nvr/petclinic-microservices-with-db">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=petclinic-microservices-with-db&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petclinic-microservices-with-db">
+  </a>
 
 <table border="1"  align="center"> 
     <td  align="center"><strong>Project Name</strong></td>
