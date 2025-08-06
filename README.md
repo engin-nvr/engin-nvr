@@ -62,7 +62,7 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a> 
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift/" target="_blank" rel="noreferrer"> 
-     <img src="xxx" alt="Openshift"/>
+    <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift" />
 </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
