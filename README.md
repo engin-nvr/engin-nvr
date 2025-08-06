@@ -218,7 +218,6 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 <hr/>
-
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=petclinic-microservices-with-db&theme=gruvbox)](https://github.com/engin-nvr/petclinic-microservices-with-db)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
