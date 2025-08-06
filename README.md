@@ -17,9 +17,8 @@
   <br/><br/>
   Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
   <hr style="border-color: #00FF00; width: 50%;"/>
+  
 </div>
-
-
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=%2300FF00&center=true&vCenter=true&width=500&lines=Hi+I'm+Engin;Welcome+to+my+profile!;I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
 </div>
 <hr/>
