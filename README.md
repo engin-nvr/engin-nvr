@@ -33,20 +33,20 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <!--
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
 -->
-</div>
 
-<p align="center">
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=%237e57c2&right_color=%239575cd&left_text=Views&style=for-the-badge)
 
+<p align="center">
+
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=for-the-badge" /></a>
+  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=flat" /></a>
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
   <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/eng,n-nvr1?tab=followers">
   <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engin-nvr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-
+</div>
 <hr/>
 
 <details open> 
