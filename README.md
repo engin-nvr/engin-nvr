@@ -35,12 +35,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
 -->
 </div>
-![Views](https://img.shields.io/badge/dynamic/json?color=1155ba&label=Ziyaret&query=value&url=https://api.countapi.xyz/hit/engin-nvr/visits)
-
 
 <p align="center">
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=55960c&right_color=488207&left_text=Views&style=for-the-badge" /></a>
+  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=for-the-badge" /></a>
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/eng,n-nvr1?tab=followers">
