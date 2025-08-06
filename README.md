@@ -39,29 +39,13 @@ https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engi
 <p align="center">
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
   <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=for-the-badge" /></a>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=4b0082&right_color=7e57c2&left_text=Views&style=for-the-badge)
+
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
   <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/eng,n-nvr1?tab=followers">
   <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/engin-nvr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-<a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engin-nvr&count_bg=%237e57c2&title_bg=%239575cd&icon=github.svg&title=Views&edge_flat=true"
-    alt="Profile Views"
-    title="Profile Views"
-    width="220"
-    height="40"
-  />
-</a>
-
-<a href="https://github.com/engin-nvr?tab=followers" target="_blank" rel="noopener noreferrer">
-  <img
-    alt="Ziyaretçi Sayacı"
-    title="Profil Ziyaretçi Sayısı"
-    src="https://img.shields.io/badge/dynamic/json?color=8a2be2&label=Ziyaret&query=value&url=https://api.countapi.xyz/hit/engin-nvr/visits&style=for-the-badge"
-  />
-</a>
-
 
 </p>
 
