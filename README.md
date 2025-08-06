@@ -190,8 +190,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
       </tr>
 </table>
 <hr>
-
-
+<p align="left">
+    <a href="https://github.com/engin-nvr/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details>
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <br>
