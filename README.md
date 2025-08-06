@@ -162,6 +162,11 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <!-- Small repo cards https://github.com/engin-nvr/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+
+ <p align="left">
+    <a href="https://github.com/engin-nvr/petclinic-microservices-with-db"><img width="278" src="https://engin-nvr-github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
+
 <table border="1"  align="center"> 
     <td  align="center"><strong>Project Name</strong></td>
       <td  align="center">
@@ -191,8 +196,9 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 </table>
 <hr>
 <p align="left">
-    <a href="https://github.com/engin-nvr/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+<!--    <a href="https://github.com/engin-nvr/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
+-->
 </details>
 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
