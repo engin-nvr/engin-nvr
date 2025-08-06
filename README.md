@@ -18,17 +18,12 @@
 Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
 <hr/>
 Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
-<hr/>
+<br/>
 Always eager to collaborate, learn, and share—feel free to explore my work or reach out for cloud-native discussions and DevOps-driven projects!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/engin-unver/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/engin_nvr) 
-
-
 <hr/>
 
 <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi+I'm+Engin;Welcome+to+my+profile!+I'm+DevOps+Engineer;and+AWS+Solution+Architect;I+have+CKA+and+AWS+SSA+and+CCP;" alt="Typing SVG" /></a>
 </div>
 <hr/>
 
@@ -37,6 +32,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
      <h2 align="center">📬 Connect With Me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/engin-unver/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/engin_nvr) 
+
+
+
 <!--
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
 -->
