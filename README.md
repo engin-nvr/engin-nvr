@@ -36,10 +36,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=%237e57c2&right_color=%239575cd&left_text=Views&style=for-the-badge)
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
-  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Views&style=flat" /></a>
+  <img alt="Profile Views" title="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=7e57c2&right_color=488207&left_text=Profile Views&style=flat-square" /></a>
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers">
   <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/engin-nvr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <a href="https://github.com/eng,n-nvr1?tab=followers">
