@@ -1,6 +1,5 @@
 <!--![a](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=engin-nvr&left_color=%237e57c2&right_color=%239575cd&left_text=Views&style=for-the-badge)-->
-![OpenShift](https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white)
 
 <p align="left">
 <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
@@ -56,15 +55,15 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
   
 <summary><h2 align="center">My Technical Skills</h2></summary>
 <div align="center">
-     
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Amazon_AWS-FFA500?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS"/>
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a> 
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift" />
+<a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift Badge"/>
 </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
