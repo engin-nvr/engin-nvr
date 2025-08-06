@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=engin-nvr&color=blue&style=for-the-badge)
-<br/>
+
 
 <div align=center>
 <h2>💫 <b>About Me</b></h2>
@@ -168,38 +168,19 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <!-- Small repo cards https://github.com/engin-nvr/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 
- <p align="left">
+<p align="left">
 <a href="https://github.com/engin-nvr/petclinic-microservices-with-db">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=petclinic-microservices-with-db&cache_seconds=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
-      
-<table border="1"  align="center"> 
-    <td  align="center"><strong>Project Name</strong></td>
-      <td  align="center">
-        <strong>Tools and Services I Used To Make The Project</strong>
-      </td>
-      <td  align="center""><strong>Github Repository Link</strong></td>
-     <tr>
-        <td><span class="highlighted-text">SpringBoot Microservices CI/CD: Jenkins-Powered Kubernetes Automation</span></td>
-        <td>Kubernetes - Docker - Terraform - Jenkins - HELM - Rancher - Prometheus - Grafana - AWS - Bash Script</td>
-        <td><a href="https://github.com/engin-nvr/petclinic-microservices-with-db">Repo Link</a></td>
-      </tr>
-     <tr>
-        <td><span class="highlighted-text">My Phonebook with Kubernetes</span></td>
-        <td>Kubernetes - Docker - Terraform - MySQL - Bash Script</td>
-        <td><a href="https://github.com/engin-nvr/my-phonebook-with-kubernetes">Repo Link</a></td>
-      </tr>
-     <tr>
-        <td><span class="highlighted-text">My Jenkins Pipeline</span></td>
-        <td>Jenkins - Ansible - Docker - Terraform - EC2 - PostgreSQL - ECR - React - NodeJs</td>
-        <td><a href="https://github.com/engin-nvr/my-jenkins-pipeline">Repo Link</a></td>
-      </tr>
-     <tr>
-        <td><span style="font-weight: bold; text-decoration: underline;">My Blog Page Application in AWS Architecture</span></td>
-        <td>AWS - EC2 - S3 - Route 53 - ALB - ASG - RDS - VPC - CloudFormation - Parameter Store</td>
-        <td><a href="https://github.com/engin-nvr/my-phonebook-application-in-AWS-architecture">Repo Link</a></td>
-      </tr>
-</table>
+<a href="https://github.com/engin-nvr/my-phonebook-with-kubernetes">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=my-phonebook-with-kubernetes&cache_seconds=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+<a href="https://github.com/engin-nvr/my-jenkins-pipeline">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=my-jenkins-pipeline&cache_seconds=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+<a href="https://github.com/engin-nvr/my-blog-page-application-in-AWS-architecture">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=engin-nvr&repo=my-blog-page-application-in-AWS-architecture&cache_seconds=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a> 
 <hr>
 <p align="left">
 <!--    <a href="https://github.com/engin-nvr/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
