@@ -59,6 +59,9 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Amazon_AWS-FFA500?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS"/>
 </a>
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+</a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
 </a>
