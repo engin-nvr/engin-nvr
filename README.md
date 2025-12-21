@@ -119,6 +119,9 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <a href="https://gitlab.com/zehkira/monophony" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/GitLab-FF8C00?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/> 
 </a> 
+<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white alt="Bitbucket"/> 
+</a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </a>
