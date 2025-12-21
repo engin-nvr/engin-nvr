@@ -61,15 +61,12 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8S"/> 
-</a> 
-<a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift Badge"/>
 </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a> 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </a> 
 <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ArgoCD"/>
@@ -82,7 +79,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
-</a> 
+</a>
+<a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift Badge"/>
+</a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/> 
 </a> 
@@ -148,7 +148,6 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VB"/>
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/>
-<img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>  
 
 </div>
   <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
