@@ -146,6 +146,10 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="30" height="30"/> 
 </a> 
+<a href="https://www.claude.io/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude"  width="30" height="30"/> 
+</a> 
+
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logo" alt="VSCode" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Collab"/>
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=blue" alt="Vim"/>
@@ -153,7 +157,6 @@ Always eager to collaborate, learn, and share—feel free to explore my work or 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VB"/>
-<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/>
 
 </div>
   <a href="https://github.com/engin-nvr?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
