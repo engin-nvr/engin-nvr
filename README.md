@@ -116,6 +116,24 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+</a>
+<a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+</a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+</a>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+</a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </a>
