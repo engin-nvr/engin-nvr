@@ -68,6 +68,21 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://www.openshift.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/OpenShift-E02C2C?style=for-the-badge&logo=openshift&logoColor=white" alt="OpenShift"/>
 </a>
+<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"/>
+</a>
+<a href="https://goharbor.io/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=goharbor&logoColor=white" alt="Harbor"/>
+</a>
+<a href="https://www.elastic.co/elastic-stack/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
+</a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</a>
+<a href="https://trivy.dev/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy"/>
+</a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 </a>
