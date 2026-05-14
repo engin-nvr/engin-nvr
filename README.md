@@ -128,17 +128,17 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
 </a>
-<a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
@@ -146,8 +146,14 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </a>
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+<a href="https://www.wireguard.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+</a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+</a>
+<a href="https://claude.ai/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI"/>
 </a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -161,14 +167,8 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
 </a>
-<a href="https://claude.ai/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI"/>
-</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
