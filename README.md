@@ -167,20 +167,26 @@ Always eager to collaborate, learn, and share — feel free to explore my work o
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+</a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
+</a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+</a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium"/>
-</a>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/>
+
 
 </div>
 
