@@ -11,7 +11,7 @@
 
 <div align=center>
 <h2>💫 <b>About Me</b></h2>
-Hi there! I'm a DevOps Engineer and AWS Solutions Architect with over 3 years of hands-on experience designing, building, and automating scalable cloud infrastructure. I specialize in CI/CD pipelines, infrastructure as code (IaC), containerization (Docker/Kubernetes), and cloud-native solutions on AWS.
+Hi there! I'm a DevOps Engineer and AWS Solutions Architect with 3+ years of experience building and automating scalable cloud infrastructure across AWS, GCP, and cloud-agnostic environments. My focus: CI/CD pipelines, IaC, and containerization with Docker & Kubernetes.
 <br/><br/>
 Throughout my career, I've led and supported projects that streamline software delivery and boost system reliability. I'm passionate about cloud architecture, automation, and helping teams deliver faster and smarter.
 <br/><br/>
